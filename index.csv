@@ -1,0 +1,112 @@
+GEOID: Identification codes for each unique statistical geographic area for which the data is tabulated.
+GEOIDs are made up of Federal Information Processing Series (FIPS) codes from the U.S. Census Bureau. 
+GEO: General description of geographic boundary type.
+NAME: Name of the geographic boundary.
+DATE: Date and time that the data was last updated and published. These data include cases reported the
+previous day and earlier. Date is in Coordinated Universal Time (UTC). 
+NEGATIVE: Cumulative total number of people who tested negative for COVID-19. This includes diagnostic, confirmatory test results only (those are PCR or NAT tests that detect the RNA of the SARS-CoV2 virus). Before March 30, 2020, the number of negative results included non-Wisconsin residents. Starting on March 30, 2020, the number of people with negative results was changed to include Wisconsin residents only. As a result, there was a decline in the number of negative test results reported from March 29, 2020 to March 30, 2020. In addition, the number of people with negative test results includes only test results reported electronically to DHS or entered manually into the WEDSS electronic laboratory module. As a result, this number underestimates the total number of Wisconsin residents with negative test results.
+POSITIVE: Cumulative total number of confirmed cases of COVID-19.
+POS_FEM: Cumulative number of confirmed cases, female gender.
+POS_MALE: Cumulative number of confirmed cases, male gender.
+POS_0_9: Cumulative number of confirmed cases, ages 0–9 years.
+POS_10_19: Cumulative number of confirmed cases, ages 10–19 years.
+POS_20_29: Cumulative number of confirmed cases, ages 20–29 years.
+POS_30_39: Cumulative number of confirmed cases, ages 30–39 years.
+POS_40_49: Cumulative number of confirmed cases, ages 40–49 years.
+POS_50_59: Cumulative number of confirmed cases, ages 50–59 years.
+POS_60_69: Cumulative number of confirmed cases, ages 60–69 years.
+POS_70_79: Cumulative number of confirmed cases, ages 70–79 years.
+POS_80_89: Cumulative number of confirmed cases, ages 80–89 years.
+POS_90: Cumulative number of confirmed cases, ages 90 years or older.
+DEATHS: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes.
+DTHS_FEM: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, female gender.
+DTHS_MALE: Cumulative number of people with confirmed cases of COVID-19 who died from COVID19 related causes, male gender.
+DTHS_0_9: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 0–9 years.
+DTHS_10_19: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 10–19 years.
+DTHS_20_29: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 20–29 years.
+DTHS_30_39: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 30–39 years.
+DTHS_40_49: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 40–49 years.
+DTHS_50_59: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 50–59 years.
+DTHS_60_69: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 60–69 years.
+DTHS_70_79: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 70–79 years.
+DTHS_80_89: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, ages 80–89 years.
+DTHS_90: Cumulative number of people with confirmed cases of COVID-19 who died from COVID-19 related causes, age 90 years or older. 
+HOSP_YES: Cumulative number of people with confirmed cases of COVID-19 who were ever hospitalized for COVID-19.
+HOSP_NO: Cumulative number of people with confirmed cases of COVID-19 who were never hospitalized for COVID-19.
+HOSP_UNK: Cumulative number of people with confirmed cases of COVID-19 for whom it is unknown whether they were hospitalized.
+IP_Y_0_9: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for
+COVID-19, ages 0–9 years.
+IP_Y_10_19: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 10–19 years.
+IP_Y_20_29: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 20–29 years.
+IP_Y_30_39: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 30–39 years.
+IP_Y_40_49: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 40–49 years.
+IP_Y_50_59: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 50–59 years.
+IP_Y_60_69: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 60–69 years.
+IP_Y_70_79: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 70–79 years.
+IP_Y_80_89: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 80–89 years.
+IP_Y_90: Cumulative number of people who had confirmed cases of COVID-19 and were hospitalized for COVID-19, ages 90 years or older.
+IP_N_0_9: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 0–9 years.
+IP_N_10_19: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 10–19 years.
+IP_N_20_29: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 20–29 years.
+IP_N_30_39: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 30–39 years.
+IP_N_40_49: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 40–49 years.
+IP_N_50_59: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 50–59 years.
+IP_N_60_69: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 60–69 years.
+IP_N_70_79: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19 ages 70–79 years.
+IP_N_80_89: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 80–89 years.
+IP_N_90: Cumulative number of people who had confirmed cases of COVID-19, and were never hospitalized for COVID-19, ages 90 years or older.
+IP_U_0_9: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 0–9 years.
+IP_U_10_19: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 10–19 years.
+IP_U_20_29: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 20–29 years.
+IP_U_30_39: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 30–39 years.
+IP_U_40_49: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 40–49 years.
+IP_U_50_59: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 50–59 years.
+IP_U_60_69: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 60–69 years.
+IP_U_70_79: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 70–79 years.
+IP_U_80_89: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 80–89 years.
+IP_U_90: Cumulative number of people who had confirmed cases of COVID-19, but it is unknown whether they were hospitalized or not, ages 90 years or older.
+IC_YES: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit.
+IC_Y_0_9: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 0–9 years.
+IC_Y_10_19: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 10–19 years.
+IC_Y_20_29: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 20–29 years.
+IC_Y_30_39: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 30–39 years.
+IC_Y_40_49: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 40–49 years.
+IC_Y_50_59: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 50–59 years.
+IC_Y_60_69: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 60–69 years.
+IC_Y_70_79: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 70–79 years.
+IC_Y_80_89: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 80–89 years.
+IC_Y_90: Cumulative number of people who had confirmed cases of COVID-19 and were admitted to intensive care unit, ages 90 years or older.
+
+POS_AIAN: Cumulative number of people who had confirmed cases of COVID-19 with race documented as American Indian or Alaskan Native.
+POS_ASN: Cumulative number of people who had confirmed cases of COVID-19 with race documented as Asian or Pacific Islander.
+POS_BLK: Cumulative number of people who had confirmed cases of COVID-19 with race documented as African American or Black.
+POS_WHT: Cumulative number of people who had confirmed cases of COVID-19 with race documented as White.
+POS_MLTOTH: Cumulative number of people who had confirmed cases of COVID-19 with race documented as multiple races or other race.
+POS_UNK: Cumulative number of people who had confirmed cases of COVID-19 with unknown race.
+POS_E_HSP: Cumulative number of people who had confirmed cases of COVID-19 with ethnicity documented as Hispanic or Latino. 
+POS_E_NHSP: Cumulative number of people who had confirmed cases of COVID-19 with ethnicity documented as not Hispanic or Latino.
+POS_E_UNK: Cumulative number of people who had confirmed cases of COVID-19 with unknown ethnicity.
+DTH_AIAN: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID19 related causes with race documented as American Indian or Alaskan Native.
+DTH_ASN: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID19 related causes with race documented as Asian or Pacific Islander.
+DTH_BLK: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID19 related causes with race documented as African American or Black.
+DTH_WHT: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID19 related causes with race documented as White.
+DTH_MLTOTH: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID-19 related causes with race documented as multiple races or other race.
+DTH_UNK: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID19 related causes with unknown race.
+DTH_E_HSP: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID-19 related causes with ethnicity documented as Hispanic or Latino.
+DTH_E_NHSP: Cumulative number of people who had confirmed cases of COVID-19 for COVID-19 with ethnicity documented as not Hispanic or Latino.
+DTH_E_UNK: Cumulative number of people who had confirmed cases of COVID-19 and died from COVID-19 related causes with unknown ethnicity. 
+POS_HC_Y: Cumulative number of people who had confirmed cases of COVID-19 who were reported as being a health care worker. Data on COVID-19 cases who are health care workers represents a broad range of occupations in the health care field, including nurses, physicians, surgeons, physician assistants, health care support staff, emergency medical technicians and paramedics, dentists and other dental health workers, and pharmacists.
+POS_HC_N: Cumulative number of people who had confirmed cases of COVID-19 who had documentation of having an occupation that is not as a health care worker.
+POS_HC_UNK: Cumulative number of people who had confirmed cases of COVID-19 with unknown occupation. This would include retired persons if no occupation was reported. 
+DTH_NEW: Number of people who had confirmed cases of COVID-19 and died from COVID-19 related causes newly reported since the previous day.
+POS_NEW: Number of people who had confirmed cases of COVID-19 newly reported since the previous day. Each person can only be reported as a confirmed case once.
+NEG_NEW: Number of people who tested negative for COVID-19 using a diagnostic, confirmatory test result (PCR or NAT to detect SARS-CoV-2 RNA) newly reported since the previous day. People who had multiple negative test results would be included only once. The number of people with negative test results includes only Wisconsin residents who had negative test results reported electronically to DHS. As a result, this number underestimates the total number of Wisconsin residents with negative test results.
+TEST_NEW: Number of people with diagnostic, confirmatory test results for COVID-19 (PCR or NAT test to detect SARS-CoV-2 RNA) newly reported since the previous day. This is the sum of POS_NEW and NEG_NEW. Because the number of people with negative test results includes only Wisconsin residents who had negative test results reported electronically to DHS, TEST_NEW underestimates the total number of Wisconsin residents tested.
+POP: Population estimates from the 5-year American Community Survey, 2014–2018.
+POP_MOE: Margin of error for the population estimates from the 5-year American Community Survey, 2014–2018.
+PCT_POP_65: Percent of the population that is age 65 year or older.
+POP_65_WI: Percent of the population this is age 65 years or older for the state of Wisconsin.
+PCT_SMK: Percent of the population that currently smokes cigarettes on some or all days and has smoked at least 100 cigarettes in their lifetime.
+PCT_COPD: Percent of the population that has been diagnosed with chronic obstructive pulmonary disease (COPD).
+PCT_CVD: Percent of the population that has been diagnosed with a cardiovascular disease, including coronary heart disease, heart attack or stroke.
+PCT_DIAB: Percent of the population that has been diagnosed with diabetes. 
